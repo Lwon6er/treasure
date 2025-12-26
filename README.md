@@ -24,8 +24,10 @@ something about FPGA
   3.使用FPGA管脚直接接收信号还是ADC采集后再输入FPGA
     A/B/Z信号是脉冲时，选择直接输入FPGA；正/余弦信号时，选择ADC采集后输入FPGA，可细分，精度高。
 
-  三、代办事项
-  1.给电机上电，手动转动电机，用示波器观察编码器信号。
+  三、待办事项
+  1.给电机上电，手动转动电机，用示波器观察编码器信号。编码器接口定义如下：
+  <img width="1856" height="780" alt="image" src="https://github.com/user-attachments/assets/0599eb0b-e523-4e69-879b-409c7b83873a" />
+
 
 
 
